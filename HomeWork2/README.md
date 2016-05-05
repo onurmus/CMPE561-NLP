@@ -24,9 +24,11 @@ Aftr running evaluation program, it will output performance measures for both ta
 [1] Nart B Atalay, Kemal Oflazer, Bilge Say, et al. The annotation process in the turkish treebank.
 In Proc. of the 4th Intern. Workshop on Linguistically Interpreteted Corpora (LINC). Citeseer,
 2003.
+
 [2] Gulsen Eryigit, Tugay Ilbay, and Ozan Arkan Can. Multiword expressions in statistical dependency
 parsing. In Proceedings of the Second Workshop on Statistical Parsing of Morphologically
 Rich Languages ( IWPT - 12th International Conference on Parsing Technologies),
 pages 45–55, Dublin, Ireland, October 2011. Association for Computational Linguistics.
+
 [3] Kemal Oflazer, Bilge Say, Dilek Zeynep Hakkani-T¨ur, and G¨okhan T¨ur. Building a turkish
 treebank. In Treebanks, pages 261–277. Springer, 2003.
