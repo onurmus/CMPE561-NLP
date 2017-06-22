@@ -1,8 +1,8 @@
 ## CMPE561 Spring 2016 Assignment 2 / Onur Musaoğlu
-###About Repository
+#### About Repository
   This repository contains the second assignment and it consists of three modules. In CMPE561HW2 project you can find the project which trains a tagger according to a input file. I used METU-Sabanci Turkish Dependency Treebank dataset[1,2,3] to take the train data and tags. Secondly, in CMPE561HW2Part2 project you can find a simple taggger based on output of the first project. In the last project CMPE561HW2Part3 you can find the project which evaluates the results of the tagger.
 
-#How to compile and run?
+#### How to compile and run?
 The first project creates two files and second and third files use these files.So to properyl run the second and third project you should keep the these files in the same folder with jar files.
 
 Since these are java projects, to compile and run them you should have JDK in your machine. The first thing you should do is creating
@@ -20,7 +20,7 @@ java -jar evaluate_hmm_tagger.jar "output.txt" "C:\Users\onurm\Desktop\Local Dis
 
 Aftr running evaluation program, it will output performance measures for both tagsets.
 
-#References
+#### References
 [1] Nart B Atalay, Kemal Oflazer, Bilge Say, et al. The annotation process in the turkish treebank.
 In Proc. of the 4th Intern. Workshop on Linguistically Interpreteted Corpora (LINC). Citeseer,
 2003.
