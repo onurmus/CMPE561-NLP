@@ -1,5 +1,5 @@
 ## CMPE561 Spring 2016 Assignment 2 / Onur Musaoğlu
-#About Repository
+###About Repository
   This repository contains the second assignment and it consists of three modules. In CMPE561HW2 project you can find the project which trains a tagger according to a input file. I used METU-Sabanci Turkish Dependency Treebank dataset[1,2,3] to take the train data and tags. Secondly, in CMPE561HW2Part2 project you can find a simple taggger based on output of the first project. In the last project CMPE561HW2Part3 you can find the project which evaluates the results of the tagger.
 
 #How to compile and run?
